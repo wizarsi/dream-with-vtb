@@ -1,5 +1,5 @@
 # dream-with-vtb
-**Application that we made at VTB API hackathon**
+**Application that we made at the VTB API hackathon**
 <br/>
 
 Команда:
